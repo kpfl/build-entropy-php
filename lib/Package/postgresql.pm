@@ -9,7 +9,7 @@ our $VERSION = '8.2.19';
 
 
 sub base_url {
-    return "http://wwwmaster.postgresql.org/redir/376/h/source/v$VERSION/"
+    return "http://www.postgresql.org/redir/376/h/source/v$VERSION/"
     # return "ftp://ftp2.ch.postgresql.org/pub/mirrors/postgresql/source/v$VERSION/";
 }
 
